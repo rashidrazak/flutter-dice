@@ -1,16 +1,21 @@
-# flutter_dice
+<p align="center">
+    <img src="readme-assets/flutter-dice.png" alt="Flutter Contact Card Screenshot">
+</p>
 
-A new Flutter application.
+# Flutter Dice
 
-## Getting Started
+A cross platform mobile application for rolling dice. Demonstrates stateless and stateful widgets usage including gesture controls. Developed using Flutter.
 
-This project is a starting point for a Flutter application.
+### Library Used
 
-A few resources to get you started if this is your first Flutter project:
+- Material
+- Dart Math
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Widgets / Classes Used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Scaffold
+- Row
+- AssetImage
+- Colors
+- Expanded
+- FlatButton
